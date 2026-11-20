@@ -7,6 +7,8 @@
 - 鼠标靠近爱心时，会吸走一小撮粒子，在光标处聚成一颗**小爱心**；鼠标离开，粒子自动归位
 - 全程自带氛围音乐（程序内合成，无外部音频文件）
 
+> **直接下载：** [Releases v1.0.0](https://github.com/DLXH-item/HeartParticles/releases/latest) → `爱心粒子.exe`，双击即开，免安装。
+
 ## 效果预览
 
 ### 1. 单个实心 3D 爱心（带上下轻晃）
@@ -42,6 +44,8 @@
 ### 方式一：exe 直接运行（推荐，免安装）
 
 Windows 上双击 `爱心粒子.exe` 即可，**不需要装 Python、不需要任何配置**（单文件打包，已内嵌 Python 与 pygame）。
+
+下载地址：<https://github.com/DLXH-item/HeartParticles/releases/latest>
 
 ### 方式二：py 源码运行
 
