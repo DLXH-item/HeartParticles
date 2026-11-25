@@ -9,7 +9,7 @@
 
 > **直接下载：** [Releases v1.0.0](https://github.com/DLXH-item/HeartParticles/releases/latest)
 >
-> - `HeartParticles-v1.0.0.zip` — 完整整合包（exe + 源码 + 截图 + 使用说明），解压即用
+> - `HeartParticles-v1.0.0.zip` — 完整整合包（exe + 源码），解压即用
 > - `爱心粒子.exe` — 单文件，双击即开
 
 ## 效果预览
